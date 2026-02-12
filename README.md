@@ -1,1 +1,1 @@
-# jcn6-CS-375
+# Google Colab Notebooks for my Artificial Intelligence class
